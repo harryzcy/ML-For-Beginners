@@ -2,7 +2,7 @@
 
 ![Logistic vs. linear regression infographic](./images/logistic-linear.png)
 > Infographic by [Dasani Madipalli](https://twitter.com/dasani_decoded)
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/15/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/15/)
 
 > ### [This lesson is available in R!](./solution/R/lesson_4-R.ipynb)
 
@@ -15,7 +15,7 @@ In this lesson, you will learn:
 - A new library for data visualization
 - Techniques for logistic regression
 
-✅ Deepen your understanding of working with this type of regression in this [Learn module](https://docs.microsoft.com/learn/modules/train-evaluate-classification-models?WT.mc_id=academic-15963-cxa)
+✅ Deepen your understanding of working with this type of regression in this [Learn module](https://docs.microsoft.com/learn/modules/train-evaluate-classification-models?WT.mc_id=academic-77952-leestott)
 ## Prerequisite
 
 Having worked with the pumpkin data, we are now familiar enough with it to realize that there's one binary category that we can work with: `Color`.
@@ -298,7 +298,7 @@ In future lessons on classifications, you will learn how to iterate to improve y
 
 There's a lot more to unpack regarding logistic regression! But the best way to learn is to experiment. Find a dataset that lends itself to this type of analysis and build a model with it. What do you learn? tip: try [Kaggle](https://www.kaggle.com/search?q=logistic+regression+datasets) for interesting datasets.
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/16/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/16/)
 
 ## Review & Self Study
 

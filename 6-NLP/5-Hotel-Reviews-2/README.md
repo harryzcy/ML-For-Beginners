@@ -1,7 +1,7 @@
 # Sentiment analysis with hotel reviews
 
 Now that you have explored the dataset in detail, it's time to filter the columns and then use NLP techniques on the dataset to gain new insights about the hotels.
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/39/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/39/)
 
 ### Filtering & Sentiment Analysis Operations
 
@@ -360,7 +360,7 @@ To review, the steps are:
 
 When you started, you had a dataset with columns and data but not all of it could be verified or used. You've explored the data, filtered out what you don't need, converted tags into something useful, calculated your own averages, added some sentiment columns and hopefully, learned some interesting things about processing natural text.
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/40/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/40/)
 
 ## Challenge
 
@@ -368,7 +368,7 @@ Now that you have your dataset analyzed for sentiment, see if you can use strate
 
 ## Review & Self Study
 
-Take [this Learn module](https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/?WT.mc_id=academic-15963-cxa) to learn more and use different tools to explore sentiment in text.
+Take [this Learn module](https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/?WT.mc_id=academic-77952-leestott) to learn more and use different tools to explore sentiment in text.
 ## Assignment 
 
 [Try a different dataset](assignment.md)

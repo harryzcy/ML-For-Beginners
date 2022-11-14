@@ -5,7 +5,7 @@ The process of building, using, and maintaining machine learning models and the 
 - Understand the processes underpinning machine learning at a high level.
 - Explore base concepts such as 'models', 'predictions', and 'training data'.
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/7/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/7/)
 
 ## Introduction
 
@@ -89,7 +89,7 @@ In the context of machine learning, model fitting refers to the accuracy of the 
 
 ## Parameter tuning
 
-Once your initial training is complete, observe the quality of the model and consider improving it by tweaking its 'hyperparameters'. Read more about the process [in the documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-15963-cxa).
+Once your initial training is complete, observe the quality of the model and consider improving it by tweaking its 'hyperparameters'. Read more about the process [in the documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-77952-leestott).
 
 ## Prediction
 
@@ -103,7 +103,7 @@ In these lessons, you will discover how to use these steps to prepare, build, te
 
 Draw a flow chart reflecting the steps of a ML practitioner. Where do you see yourself right now in the process? Where do you predict you will find difficulty? What seems easy to you?
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/8/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8/)
 
 ## Review & Self Study
 

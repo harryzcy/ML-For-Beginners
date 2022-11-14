@@ -5,7 +5,7 @@
 - 머신러닝을 받쳐주는 프로세스를 고수준에서 이해합니다.
 - 'models', 'predictions', 그리고 'training data'와 같은 기초 개념을 탐색합니다.
   
-## [강의 전 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/7/)
+## [강의 전 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/7/)
 
 ## 소개
 
@@ -89,7 +89,7 @@ feature는 데이터의 측정할 수 있는 속성입니다. 많은 데이터�
 
 ## 파라미터 튜닝
 
-초반 훈련이 마무리 될 때, 모델의 품질을 살펴보고 'hyperparameters'를 트윅해서 개선하는 것을 고려합니다. [in the documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-15963-cxa) 프로세스에 대하여 알아봅니다.
+초반 훈련이 마무리 될 때, 모델의 품질을 살펴보고 'hyperparameters'를 트윅해서 개선하는 것을 고려합니다. [in the documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-77952-leestott) 프로세스에 대하여 알아봅니다.
 
 ## 예측
 
@@ -103,7 +103,7 @@ feature는 데이터의 측정할 수 있는 속성입니다. 많은 데이터�
 
 ML 실무자의 단계를 반영한 플로우를 그려보세요. 프로세스에서 지금 어디에 있는 지 보이나요? 어려운 내용을 예상할 수 있나요? 어떤게 쉬울까요?
 
-## [강의 후 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/8/)
+## [강의 후 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8/)
 
 ## 검토 & 자기주도 학습
 

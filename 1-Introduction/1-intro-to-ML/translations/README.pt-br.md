@@ -4,7 +4,7 @@
 
 > 🎥 Clique na imagem acima para assistir um vídeo que ilustra a diferença entre machine learning, AI, e deep learning.
 
-## [Questionário inicial](https://white-water-09ec41f0f.azurestaticapps.net/quiz/1?loc=ptbr)
+## [Questionário inicial](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/1?loc=ptbr)
 
 ### Introdução
 
@@ -19,7 +19,7 @@ Nossas boas vindas a este curso de machine learning clássico para iniciantes! Q
 Antes de iniciar este curso, você precisa ter seu computador configurado e pronto para executar notebooks localmente.
 
 - **Configure sua máquina com estes vídeos**. Use os links a seguir para aprender [como instalar o Python](https://youtu.be/CXZYvNRIAKM) em seu sistema e [configurar um editor de texto](https://youtu.be/EU8eayHWoZg) para desenvolvimento.
-- **Aprenda Python**. Também é recomendável ter um conhecimento básico de [Python](https://docs.microsoft.com/learn/paths/python-language/?WT.mc_id=academic-15963-cxa), uma linguagem de programação útil para cientistas de dados (data scientists) que usamos neste curso.
+- **Aprenda Python**. Também é recomendável ter um conhecimento básico de [Python](https://docs.microsoft.com/learn/paths/python-language/?WT.mc_id=academic-77952-leestott), uma linguagem de programação útil para cientistas de dados (data scientists) que usamos neste curso.
 - **Aprenda Node.js e JavaScript**. Também usamos JavaScript algumas vezes neste curso para criar aplicativos web, então você precisará ter [node](https://nodejs.org) e [npm](https://www.npmjs.com/) instalado, assim como o [Visual Studio Code](https://code.visualstudio.com/) disponível para desenvolvimento em Python e JavaScript.
 - **Crie uma conta no GitHub**. Como você nos encontrou aqui no [GitHub](https://github.com),talvez você já tenha uma conta, mas se não, crie uma e faça um fork deste curso para usar por conta própria. (Sinta-se à vontade para nos dar uma estrela também 😊).
 - **Explore o Scikit-learn**. Familiarize-se com o [Scikit-learn](https://scikit-learn.org/stable/user_guide.html), um conjunto de bibliotecas de ML referenciadas nestas lições.
@@ -100,13 +100,13 @@ Em um futuro próximo, compreender os fundamentos do machine learning será uma 
 
 Esboce, no papel ou usando um aplicativo online como [Excalidraw](https://excalidraw.com/), sua compreensão das diferenças entre AI, ML, deep learning e data science. Adicione algumas idéias de problemas que cada uma dessas técnicas é boa para resolver.
 
-## [Questionário pós-aula](https://white-water-09ec41f0f.azurestaticapps.net/quiz/2?loc=ptbr)
+## [Questionário pós-aula](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/2?loc=ptbr)
 
 ## Revisão e autoestudo
 
-Para saber mais sobre como você pode trabalhar com algoritmos de ML na nuvem, siga este [Caminho de aprendizagem](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/?WT.mc_id=academic-15963-cxa).
+Para saber mais sobre como você pode trabalhar com algoritmos de ML na nuvem, siga este [Caminho de aprendizagem](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/?WT.mc_id=academic-77952-leestott).
 
-Faça o [Caminho de aprendizagem](https://docs.microsoft.com/learn/modules/introduction-to-machine-learning/?WT.mc_id=academic-15963-cxa) sobre os fundamentos do ML.
+Faça o [Caminho de aprendizagem](https://docs.microsoft.com/learn/modules/introduction-to-machine-learning/?WT.mc_id=academic-77952-leestott) sobre os fundamentos do ML.
 
 ## Tarefa
 

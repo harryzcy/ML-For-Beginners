@@ -3,7 +3,7 @@
 ![Infografía de regresiones lineal vs logística](../images/logistic-linear.png)
 > Infografía de [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
-## [Examen previo a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/15?loc=es)
+## [Examen previo a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/15?loc=es)
 
 > ### [Esta lección se encuentra disponible en R!](../solution/R/lesson_4-R.ipynb)
 
@@ -16,7 +16,7 @@ En esta lección, aprenderás:
 - Una nueva librería para visualización de datos
 - Técnicas para regresión logística
 
-✅ Profundiza tu entendimiento de trabajo con este tipo de regresión en este [módulo de aprendizaje(https://docs.microsoft.com/learn/modules/train-evaluate-classification-models?WT.mc_id=academic-15963-cxa)
+✅ Profundiza tu entendimiento de trabajo con este tipo de regresión en este [módulo de aprendizaje(https://docs.microsoft.com/learn/modules/train-evaluate-classification-models?WT.mc_id=academic-77952-leestott)
 ## Requisitos previos
 
 Haber trabajado con los datos de calabazas, ahora estamos suficientemente familiarizados con estos para entender que hay una categoría binaria que podemos trabajar con `Color`.
@@ -302,7 +302,7 @@ En futuras lecciones de clasificación, aprenderás cómo iterar para mejorar lo
 
 ¡Hay mucho más para desempacar respecto a la regresión logística! Pero la mejor forma de aprender es experimentar. Encuentra un conjunto de datos que se preste para este tipo de análisis y construye un modelo con él. ¿Qué aprendes? tipo: prueba [Kaggle](https://www.kaggle.com/search?q=logistic+regression+datasets) por conjuntos de datos interesantes.
 
-## [Examen posterior a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/16?loc=es)
+## [Examen posterior a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/16?loc=es)
 
 ## Revisión & autoestudio
 

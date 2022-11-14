@@ -6,7 +6,7 @@ El agrupamiento (clustering) es un tipo de [aprendizaje no supervisado](https://
 
 > 🎥 Haz clic en la imagen de arriba para ver el video. Mientras estudias aprendizaje automático con agrupamiento, disfruta de algunas canciones Dance Hall Nigerianas - esta es una canción muy popular del 2014 de PSquare.
 
-## [Examen previo a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/27?loc=es)
+## [Examen previo a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/27?loc=es)
 
 ### Introducción
 
@@ -28,7 +28,7 @@ Alternativamente, puedes usarlo para agrupar resultados de búsqueda - por enlac
 
 ✅ Una vez que tus datos están organizados en grupos , asignale un Id de grupo, y esta técnica puede ser útil cuando conservas la privacidad de un conjunto de datos; en su lugar te puedes referir a un punto de datos por su id de grupo, en vez de sus datos identificables más reveladores. ¿Puedes pensar en otras razones del por qué preferirías un Id de grupo en lugar de otros elementos del grupo para identificarlo?
 
-Profundiza tu compresión de las técnicas de agrupamiento en este [módulo de aprendizaje](https://docs.microsoft.com/learn/modules/train-evaluate-cluster-models?WT.mc_id=academic-15963-cxa)
+Profundiza tu compresión de las técnicas de agrupamiento en este [módulo de aprendizaje](https://docs.microsoft.com/learn/modules/train-evaluate-cluster-models?WT.mc_id=academic-77952-leestott)
 
 ## Empezando con el agrupamiento
 
@@ -320,7 +320,7 @@ En general, para el agrupamiento, puedes usar gráficos de dispersión para most
 
 En preparación para la siguiente lección, realiza una gráfica acerca de los diverso algoritmos de agrupamiento que puedes descubrir y usar en un ambiente de producción. ¿Qué tipo de problemas trata de abordar el agrupamiento?
 
-## [Examen porterior a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/28?loc=es)
+## [Examen porterior a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/28?loc=es)
 
 ## Revisión y auto-estudio
 

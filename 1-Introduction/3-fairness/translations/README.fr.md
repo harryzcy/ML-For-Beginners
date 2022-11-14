@@ -3,7 +3,7 @@
 ![Résumé de l'équité dans le Machine Learning dans un sketchnote](../../../sketchnotes/ml-fairness.png)
 > Sketchnote par [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
-## [Quiz préalable](https://white-water-09ec41f0f.azurestaticapps.net/quiz/5/?loc=fr)
+## [Quiz préalable](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/5/?loc=fr)
  
 ## Introduction
 
@@ -21,7 +21,7 @@ Dans cette leçon, nous :
 
 En tant que prérequis, veuillez lire le guide des connaissances sur les "Principes de l'IA responsable" et regarder la vidéo sur le sujet suivant :
 
-En apprendre plus sur l'IA responsable en suivant ce [guide des connaissances](https://docs.microsoft.com/fr-fr/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)
+En apprendre plus sur l'IA responsable en suivant ce [guide des connaissances](https://docs.microsoft.com/fr-fr/learn/modules/responsible-ai-principles/?WT.mc_id=academic-77952-leestott)
 
 [![L'approche de Microsoft sur l'IA responsable](https://img.youtube.com/vi/dnC8-uUZXSc/0.jpg)](https://youtu.be/dnC8-uUZXSc "Microsoft's Approach to Responsible AI")
 
@@ -169,7 +169,7 @@ L'outil aide à évaluer comment les prédictions d'un modèle affectent différ
 
 - Essayez quelques [notebooks d'exemples](https://github.com/fairlearn/fairlearn/tree/master/notebooks). 
   
-- Apprenez [comment activer les évaluations d'équités](https://docs.microsoft.com/fr-fr/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-15963-cxa) des modèles de machine learning sur Azure Machine Learning. 
+- Apprenez [comment activer les évaluations d'équités](https://docs.microsoft.com/fr-fr/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-77952-leestott) des modèles de machine learning sur Azure Machine Learning. 
   
 - Jetez un coup d'oeil aux [notebooks d'exemples](https://github.com/Azure/MachineLearningNotebooks/tree/master/contrib/fairness) pour plus de scénarios d'évaluation d'équités sur Azure Machine Learning. 
 
@@ -184,7 +184,7 @@ Pour éviter que des biais ne soient introduits en premier lieu, nous devrions 
 
 Pensez à des scénarios de la vie réelle où l'injustice est évidente dans la construction et l'utilisation de modèles. Que devrions-nous considérer d'autre ?
 
-## [Quiz de validation des connaissances](https://white-water-09ec41f0f.azurestaticapps.net/quiz/6/?loc=fr)
+## [Quiz de validation des connaissances](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/6/?loc=fr)
 ## Révision et auto-apprentissage
  
 Dans cette leçon, nous avons appris quelques notions de base sur les concepts d'équité et d'injustice dans le machine learning.  
@@ -205,7 +205,7 @@ Explorer la boite à outils Fairlearn
 
 Lire sur les outils Azure Machine Learning afin d'assurer l'équité
 
-- [Azure Machine Learning](https://docs.microsoft.com/fr-fr/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-15963-cxa) 
+- [Azure Machine Learning](https://docs.microsoft.com/fr-fr/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-77952-leestott) 
 
 ## Devoir
 

@@ -35,7 +35,7 @@
 - 完成作业
 - 一节课完成后, 访问[讨论版](https://github.com/microsoft/ML-For-Beginners/discussions)，通过填写相应的 PAT Rubric (课程目标) 来深化自己的学习成果。你也可以回应其它的 PAT，这样我们可以一起学习。
 
-> 如果希望进一步学习，我们推荐跟随 [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-15963-cxa) 的模块和学习路径。
+> 如果希望进一步学习，我们推荐跟随 [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) 的模块和学习路径。
 
 **对于老师们**，我们对于如何使用这套教程[提供了一些建议](../for-teachers.md)。
 
@@ -69,7 +69,7 @@
 - 作业
 - 课后测验
 
-> **关于测验**：所有的测验都在[这个应用里](https://white-water-09ec41f0f.azurestaticapps.net/)，总共 50 个测验，每个测验三个问题。它们的链接在每节课中，而且这个测验应用可以在本地运行。请参考 `quiz-app` 文件夹中的指南。
+> **关于测验**：所有的测验都在[这个应用里](https://gray-sand-07a10f403.1.azurestaticapps.net/)，总共 50 个测验，每个测验三个问题。它们的链接在每节课中，而且这个测验应用可以在本地运行。请参考 `quiz-app` 文件夹中的指南。
 
 
 | 课程编号 |                     主体                     |                      课程组                       | 学习目标                                                                |                        课程链接                        |     作者      |

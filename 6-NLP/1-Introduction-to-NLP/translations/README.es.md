@@ -2,7 +2,7 @@
 
 Esta lección cubre una breve historia y conceptos importante del *procesamiento del lenguaje natural*, un subcampo de la *ligüística computacional*.
 
-## [Examen previo a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/31?loc=es)
+## [Examen previo a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/31?loc=es)
 
 ## Introducción
 
@@ -51,7 +51,7 @@ En esta sección, necesitarás y usarás:
    python -m textblob.download_corpora
    ```
 
-> 💡 Consejo: Puedes ejecutar Python directamente en los ambientes de VS Code. Revisa la [documentación](https://code.visualstudio.com/docs/languages/python?WT.mc_id=academic-15963-cxa) para mayor información.
+> 💡 Consejo: Puedes ejecutar Python directamente en los ambientes de VS Code. Revisa la [documentación](https://code.visualstudio.com/docs/languages/python?WT.mc_id=academic-77952-leestott) para mayor información.
 
 ## Hablando con las máquinas
 
@@ -150,7 +150,7 @@ Elige uno de los elementos "Detente y considera" de arriba y trata de implementa
 
 En la siguiente lección, aprenderás acerca de otros enfoques de cómo analizar el lenguaje natural y aprendizaje automático.
 
-## [Examen posterior a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/32?loc=es)
+## [Examen posterior a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/32?loc=es)
 
 ## Revisión y autoestudio
 

@@ -3,7 +3,7 @@
 ![機械学習における公平性をまとめたスケッチ](../../../sketchnotes/ml-fairness.png)
 > [Tomomi Imura](https://www.twitter.com/girlie_mac)によるスケッチ
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/5?loc=ja)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/5?loc=ja)
  
 ## イントロダクション
 
@@ -20,7 +20,7 @@
 ## 前提条件
 前提条件として、"Responsible AI Principles"のLearn Pathを受講し、このトピックに関する以下のビデオを視聴してください。
 
-こちらの[Learning Path](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)より、責任のあるAIについて学ぶ。
+こちらの[Learning Path](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-77952-leestott)より、責任のあるAIについて学ぶ。
 
 [![Microsoftの責任あるAIに対する取り組み](https://img.youtube.com/vi/dnC8-uUZXSc/0.jpg)](https://youtu.be/dnC8-uUZXSc "Microsoftの責任あるAIに対する取り組み")
 
@@ -163,7 +163,7 @@ AIや機械学習における公平性の保証は、依然として複雑な社
 
 - [サンプルノートブック](https://github.com/fairlearn/fairlearn/tree/master/notebooks)を試す。
   
-- Azure Machine Learningで機械学習モデルの[公平性評価を可能にする方法](https://docs.microsoft.com/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-15963-cxa)を学ぶ。
+- Azure Machine Learningで機械学習モデルの[公平性評価を可能にする方法](https://docs.microsoft.com/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-77952-leestott)を学ぶ。
   
 - Azure Machine Learningで[サンプルノートブック](https://github.com/Azure/MachineLearningNotebooks/tree/master/contrib/fairness)をチェックして、公平性評価の流れを確認する。
 
@@ -178,7 +178,7 @@ AIや機械学習における公平性の保証は、依然として複雑な社
 
 モデルの構築や使用において、不公平が明らかになるような現実のシナリオを考えてみてください。他にどのようなことを考えるべきでしょうか？
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/6?loc=ja)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/6?loc=ja)
 ## Review & Self Study 
  
 このレッスンでは、機械学習における公平、不公平の概念の基礎を学びました。
@@ -197,7 +197,7 @@ Fairlearnのツールキットを調べてみましょう
 
 Azure Machine Learningによる、公平性を確保するためのツールについて読む
 
-- [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-15963-cxa) 
+- [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-77952-leestott) 
 
 ## 課題
 

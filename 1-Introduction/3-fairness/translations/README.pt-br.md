@@ -3,7 +3,7 @@
 ![Resumo de imparcialidade no Machine Learning em um sketchnote](../../../sketchnotes/ml-fairness.png)
 > Sketchnote por [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
-## [Teste pré-aula](https://white-water-09ec41f0f.azurestaticapps.net/quiz/5?loc=ptbr)
+## [Teste pré-aula](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/5?loc=ptbr)
 
 ## Introdução
 
@@ -21,7 +21,7 @@ Nesta lição, você irá:
 
 Como pré-requisito, siga o Caminho de aprendizagem "Princípios de AI responsável" e assista ao vídeo abaixo sobre o tópico:
 
-Saiba mais sobre a AI responsável seguindo este [Caminho de aprendizagem](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)
+Saiba mais sobre a AI responsável seguindo este [Caminho de aprendizagem](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-77952-leestott)
 
 [![Abordagem da Microsoft para AI responsável](https://img.youtube.com/vi/dnC8-uUZXSc/0.jpg)](https://youtu.be/dnC8-uUZXSc "Abordagem da Microsoft para AI responsável")
 
@@ -167,7 +167,7 @@ The tool helps you to assesses how a model's predictions affect different groups
 
 - Try some [sample notebooks](https://github.com/fairlearn/fairlearn/tree/master/notebooks).
   
-- Learn [how to enable fairness assessments](https://docs.microsoft.com/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-15963-cxa) of machine learning models in Azure Machine Learning.
+- Learn [how to enable fairness assessments](https://docs.microsoft.com/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-77952-leestott) of machine learning models in Azure Machine Learning.
   
 - Check out these [sample notebooks](https://github.com/Azure/MachineLearningNotebooks/tree/master/contrib/fairness) for more fairness assessment scenarios in Azure Machine Learning.
 
@@ -182,7 +182,7 @@ Para evitar que preconceitos sejam introduzidos em primeiro lugar, devemos:
 
 Pense em cenários da vida real onde a injustiça é evidente na construção e uso de modelos. O que mais devemos considerar?
 
-## [Questionário pós-aula](https://white-water-09ec41f0f.azurestaticapps.net/quiz/6?loc=ptbr)
+## [Questionário pós-aula](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/6?loc=ptbr)
 
 ## Revisão e Autoestudo
 
@@ -204,7 +204,7 @@ Explore o kit de ferramentas Fairlearn
 
 Leia sobre as ferramentas do Azure Machine Learning para garantir justiça
 
-- [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-15963-cxa)
+- [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-77952-leestott)
 
 ## Tarefa
 

@@ -3,7 +3,7 @@
 ![Summary of Fairness in Machine Learning in a sketchnote](../../sketchnotes/ml-fairness.png)
 > Sketchnote by [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/5/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/5/)
  
 ## Introduction
 
@@ -21,7 +21,7 @@ In this lesson, you will:
 
 As a prerequisite, please take the "Responsible AI Principles" Learn Path and watch the video below on the topic:
 
-Learn more about Responsible AI by following this [Learning Path](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)
+Learn more about Responsible AI by following this [Learning Path](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-77952-leestott)
 
 [![Microsoft's Approach to Responsible AI](https://img.youtube.com/vi/dnC8-uUZXSc/0.jpg)](https://youtu.be/dnC8-uUZXSc "Microsoft's Approach to Responsible AI")
 
@@ -169,7 +169,7 @@ The tool helps you to assesses how a model's predictions affect different groups
 
 - Try some [sample notebooks](https://github.com/fairlearn/fairlearn/tree/master/notebooks). 
   
-- Learn [how to enable fairness assessments](https://docs.microsoft.com/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-15963-cxa) of machine learning models in Azure Machine Learning. 
+- Learn [how to enable fairness assessments](https://docs.microsoft.com/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-77952-leestott) of machine learning models in Azure Machine Learning. 
   
 - Check out these [sample notebooks](https://github.com/Azure/MachineLearningNotebooks/tree/master/contrib/fairness) for more fairness assessment scenarios in Azure Machine Learning. 
 
@@ -184,7 +184,7 @@ To prevent biases from being introduced in the first place, we should:
 
 Think about real-life scenarios where unfairness is evident in model-building and usage. What else should we consider? 
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/6/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/6/)
 ## Review & Self Study 
  
 In this lesson, you have learned some basics of the concepts of fairness and unfairness in machine learning.  
@@ -208,7 +208,7 @@ Explore the Fairlearn toolkit:
 
 Read about Azure Machine Learning's tools to ensure fairness:
 
-- [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-15963-cxa) 
+- [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-77952-leestott) 
 
 ## Assignment
 

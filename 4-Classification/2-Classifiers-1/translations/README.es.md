@@ -4,7 +4,7 @@ En esta lección, usarás el conjunto de datos que guardaste en la última lecci
 
 Usarás este conjunto de datos con una variedad de clasificadores para _predecir una cocina nacional dada basado en un grupo de ingredientes_. Mientras lo haces, aprenderás más acerca de algunas formas en que los algoritmos pueden ser aprovechados para las tareas de clasificación.
 
-## [Examen previo a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/21?loc=es)
+## [Examen previo a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/21?loc=es)
 
 # Preparación
 
@@ -102,11 +102,11 @@ Así que, ¿qué clasificador deberías elegir? A menudo, el ejecutar varios y b
 ![Comparación de clasificadores](../images/comparison.png)
 > Gráficos generados en la documentación de Scikit-learn
 
-> AutoML resuelve este problema de forma pulcra al ejecutar estas comparaciones en la nube, permitiéndote elegir el mejor algoritmo para tus datos. Pruébalo [aquí](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-15963-cxa)
+> AutoML resuelve este problema de forma pulcra al ejecutar estas comparaciones en la nube, permitiéndote elegir el mejor algoritmo para tus datos. Pruébalo [aquí](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-77952-leestott)
 
 ### Un mejor enfoque
 
-Una mejor forma a estar adivinando, es seguir las ideas de esta [hoja de trucos de ML](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-15963-cxa). Aquí, descubrimos que, para nuestro problema multiclase, tenemos algunas opciones:
+Una mejor forma a estar adivinando, es seguir las ideas de esta [hoja de trucos de ML](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-77952-leestott). Aquí, descubrimos que, para nuestro problema multiclase, tenemos algunas opciones:
 
 ![Hoja de trucos para problemas multiclase](../images/cheatsheet.png)
 > Una sección de la hoja de trucos de algoritmos de Microsoft, detallando opciones de clasificación multiclase.
@@ -234,7 +234,7 @@ Ya que estás usando un caso multiclase, necesitas elegir qué _esquema_ usar y 
 
 En esta lección, usaste tus datos limpios para construir un modelo de aprendizaje automático que puede predecir una cocina nacional basado en una serie de ingredientes. Toma un tiempo para leer las diversas opciones que provee Scikit-learn para clasificar los datos. Profundiza en el concepto de 'solucionador' para comprender que sucede detrás de escena.
 
-## [Examen posterior a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/22?loc=es)
+## [Examen posterior a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/22?loc=es)
 
 ## Revisión y autoestudio
 

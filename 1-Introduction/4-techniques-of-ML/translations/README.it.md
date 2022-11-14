@@ -5,7 +5,7 @@ Il processo di creazione, utilizzo e mantenimento dei modelli di machine learnin
 - Comprendere i processi ad alto livello alla base di machine learning.
 - Esplorare concetti di base come "modelli", "previsioni" e "dati di addestramento".
 
-## [Quiz pre-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/7/?loc=it)
+## [Quiz pre-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/7/?loc=it)
 
 ## Introduzione
 
@@ -89,7 +89,7 @@ Nel contesto di machine learning, l'adattamento del modello si riferisce all'acc
 
 ## Sintonia dei parametri
 
-Una volta completato l'addestramento iniziale, si osservi la qualità del modello e si valuti di migliorarlo modificando i suoi "iperparametri". Maggiori informazioni sul processo [nella documentazione](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-15963-cxa).
+Una volta completato l'addestramento iniziale, si osservi la qualità del modello e si valuti di migliorarlo modificando i suoi "iperparametri". Maggiori informazioni sul processo [nella documentazione](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-77952-leestott).
 
 ## Previsione
 
@@ -103,7 +103,7 @@ In queste lezioni si scoprirà come utilizzare questi passaggi per preparare, co
 
 Disegnare un diagramma di flusso che rifletta i passaggi di un professionista di ML. Dove ci si vede in questo momento nel processo? Dove si prevede che sorgeranno difficoltà? Cosa sembra facile?
 
-## [Quiz post-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/8/?loc=it)
+## [Quiz post-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8/?loc=it)
 
 ## Revisione e Auto Apprendimento
 

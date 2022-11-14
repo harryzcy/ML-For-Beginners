@@ -8,7 +8,7 @@ In this curriculum, you have learned many ways to prepare data for training and 
 
 While a lot of interest in industry has been garnered by AI, which usually leverages deep learning, there are still valuable applications for classical machine learning models. You might even use some of these applications today! In this lesson, you'll explore how eight different industries and subject-matter domains use these types of models to make their applications more performant, reliable, intelligent, and valuable to users.
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/49/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/49/)
 
 ## 💰 Finance
 
@@ -98,7 +98,7 @@ https://www.frontiersin.org/articles/10.3389/fict.2018.00006/full
 
 ### Motion sensing of animals
 
-While deep learning has created a revolution in visually tracking animal movements (you can build your own [polar bear tracker](https://docs.microsoft.com/learn/modules/build-ml-model-with-azure-stream-analytics/?WT.mc_id=academic-15963-cxa) here), classic ML still has a place in this task.
+While deep learning has created a revolution in visually tracking animal movements (you can build your own [polar bear tracker](https://docs.microsoft.com/learn/modules/build-ml-model-with-azure-stream-analytics/?WT.mc_id=academic-77952-leestott) here), classic ML still has a place in this task.
 
 Sensors to track movements of farm animals and IoT make use of this type of visual processing, but more basic ML techniques are useful to preprocess data. For example, in this paper, sheep postures were monitored and analyzed using various classifier algorithms. You might recognize the ROC curve on page 335.
 
@@ -152,7 +152,7 @@ https://ai.inqline.com/machine-learning-for-marketing-customer-segmentation/
 
 Identify another sector that benefits from some of the techniques you learned in this curriculum, and discover how it uses ML.
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/50/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/50/)
 
 ## Review & Self Study
 

@@ -2,7 +2,7 @@
 
 En las lecciones anteriores aprendiste cómo construir un bot básico usando `TextBlob`, una biblioteca que embebe aprendizaje automático tras bambalinas para realizar tareas básicas de procesamiento del lenguaje natural (NLP) tales como extracción de frases nominales. Otro desafío importante en la lingüística computacional es la _traducción_ precisa de una oración de un idioma hablado o escrito a otro.
 
-## [Examen previo a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/35?loc=es)
+## [Examen previo a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/35?loc=es)
 
 La traducción es siempre un problema difícil compuesto por el hecho que existen miles de idiomas y cada uno puede tener distintas reglas gramaticales. Un enfoque es convertir las reglas gramaticales formales para un idioma, como el Inglés, a una estructura no dependiente del idioma, y luego traducirlo al convertirlo de nuevo a otro idioma. Este enfoque significa que deberías realizar los siguientes pasos:
 
@@ -176,11 +176,11 @@ Aquí tienes una [solución de muestra](../solution/notebook.ipynb).
 
 ¿Puedes hacer a Marvin aún mejor al extraer otras características de la entrada del usuario?
 
-## [Examen posterior a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/36?loc=es)
+## [Examen posterior a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/36?loc=es)
 
 ## Revisión y autoestudio
 
-Hay varias formas de extraer el sentimiento del texto. Piensa en las aplicaciones de negocios que podrían hacer uso de esta técnica. Piensa cómo puede salir mal. Lee más acerca de los sistemas sofisticados listos para empresas que analizan  el sentimiento tal como [Azure Text Analysis](https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/how-tos/text-analytics-how-to-sentiment-analysis?tabs=version-3-1?WT.mc_id=academic-15963-cxa). Prueba algunas de las oraciones de Orgullo y Prejuicio de arriba y observa si se pueden detectar matices.
+Hay varias formas de extraer el sentimiento del texto. Piensa en las aplicaciones de negocios que podrían hacer uso de esta técnica. Piensa cómo puede salir mal. Lee más acerca de los sistemas sofisticados listos para empresas que analizan  el sentimiento tal como [Azure Text Analysis](https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/how-tos/text-analytics-how-to-sentiment-analysis?tabs=version-3-1?WT.mc_id=academic-77952-leestott). Prueba algunas de las oraciones de Orgullo y Prejuicio de arriba y observa si se pueden detectar matices.
 
 ## Asignación
 

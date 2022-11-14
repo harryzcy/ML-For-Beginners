@@ -3,7 +3,7 @@
 ![Resumen de justicia en el aprendizaje automático en un sketchnote](../../../sketchnotes/ml-fairness.png)
 > Sketchnote por [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
-## [Examen previo a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/5?loc=es)
+## [Examen previo a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/5?loc=es)
 
 ## Introducción
 
@@ -21,7 +21,7 @@ En esta lección, será capaz de:
 
 Como un prerrequisito, por favor toma la ruta de aprendizaje "Responsible AI Principles" y mira el vídeo debajo sobre el tema:
 
-Aprende más acerca de la AI responsable siguiendo este [curso](https://docs.microsoft.com/es-es/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)
+Aprende más acerca de la AI responsable siguiendo este [curso](https://docs.microsoft.com/es-es/learn/modules/responsible-ai-principles/?WT.mc_id=academic-77952-leestott)
 
 [![Enfonque de Microsoft para la AI responsable](https://img.youtube.com/vi/dnC8-uUZXSc/0.jpg)](https://youtu.be/dnC8-uUZXSc "Enfoque de Microsoft para la AI responsable")
 
@@ -168,7 +168,7 @@ La herramienta te ayuda a evaluar cómo unos modelos de predicción afectan a di
 
 - Prueba algunos [notebooks de ejemplo](https://github.com/fairlearn/fairlearn/tree/master/notebooks).
   
-- Aprende a [cómo activar evaluación de justicia](https://docs.microsoft.com/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-15963-cxa) de los modelos de aprendizaje automático en Azure Machine Learning.
+- Aprende a [cómo activar evaluación de justicia](https://docs.microsoft.com/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-77952-leestott) de los modelos de aprendizaje automático en Azure Machine Learning.
   
 - Revisa estos [notebooks de ejemplo](https://github.com/Azure/MachineLearningNotebooks/tree/master/contrib/fairness) para más escenarios de evaluaciones de justicia en Azure Machine Learning.
 
@@ -183,7 +183,7 @@ Para prevenir que los sesgos sean introducidos en primer lugar, debemos:
 
 Piensa en escenarios de la vida real donde la injusticia es evidente en la construcción y uso de modelos. ¿Qué más debemos considerar?
 
-## [Cuestionario posterior a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/6?loc=es)
+## [Cuestionario posterior a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/6?loc=es)
 ## Revisión y autoestudio 
 
 En esta lección has aprendido algunos de los conceptos básicos de justicia e injusticia en el aprendizaje automático.
@@ -204,7 +204,7 @@ Explorar la caja de herramientas de Fairlearn
 
 Lee acerca de las herramientas de Azure Machine Learning para asegurar justicia
 
-- [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-15963-cxa)
+- [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-77952-leestott)
 
 ## Tarea
 

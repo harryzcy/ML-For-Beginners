@@ -2,7 +2,7 @@
 
 Ahora que has explorado a detalle el conjunto de datos, es momento de filtrar las columnas y luego usar técnicas de procesamiento del lenguaje natural sobre el conjunto de datos para obtener nuevos conocimientos acerca de los hoteles.
 
-## [Examen previo a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/39?loc=es)
+## [Examen previo a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/39?loc=es)
 
 ### Filtrado y operaciones de análisis de sentimiento
 
@@ -361,7 +361,7 @@ Para revisar, los pasos son:
 
 Cuando iniciaste, tenías un conjunto de datos con columnas y datos pero no todos ello podían ser verificados o usados. Exploraste los datos, filtraste lo que no necesitas, convertiste etiquetas en algo útil, calculaste tus propios promedios, agregaste algunas columnas de sentimiento y espero hayas aprendido cosas interesantes acerca de procesar texto natural.
 
-## [Examen posterior a la lección](https://white-water-09ec41f0f.azurestaticapps.net/quiz/40?loc=es)
+## [Examen posterior a la lección](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/40?loc=es)
 
 ## Desafío
 
@@ -369,7 +369,7 @@ Ahora que tienes tu conjunto de datos analizado por sentimiento, observa si pued
 
 ## Revisión y autoestudio
 
-Toma [este módulo de aprendizaje](https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/?WT.mc_id=academic-15963-cxa) para aprender más y usar distintas herramientas para explorar el sentimiento en el texto.
+Toma [este módulo de aprendizaje](https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/?WT.mc_id=academic-77952-leestott) para aprender más y usar distintas herramientas para explorar el sentimiento en el texto.
 
 ## Asignación
 

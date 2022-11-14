@@ -3,7 +3,7 @@
 ![机器学习中的公平性概述](../../../sketchnotes/ml-fairness.png)
 > 作者 [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
-## [课前测验](https://white-water-09ec41f0f.azurestaticapps.net/quiz/5/)
+## [课前测验](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/5/)
  
 ## 介绍
 
@@ -21,7 +21,7 @@
 
 作为先决条件，请选择“负责任的人工智能原则”学习路径并观看以下主题视频：
 
-按照此[学习路径](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)了解有关负责任 AI 的更多信息
+按照此[学习路径](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-77952-leestott)了解有关负责任 AI 的更多信息
 
 [![微软对负责任人工智能的做法](https://img.youtube.com/vi/dnC8-uUZXSc/0.jpg)](https://youtu.be/dnC8-uUZXSc "微软对负责任人工智能的做法")
 
@@ -169,7 +169,7 @@
 
 - 尝试一些 [示例 Notebook](https://github.com/fairlearn/fairlearn/tree/master/notebooks). 
   
-- 了解Azure机器学习中机器学习模型[如何启用公平性评估](https://docs.microsoft.com/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-15963-cxa)。
+- 了解Azure机器学习中机器学习模型[如何启用公平性评估](https://docs.microsoft.com/azure/machine-learning/how-to-machine-learning-fairness-aml?WT.mc_id=academic-77952-leestott)。
   
 - 看看这些[示例 Notebook](https://github.com/Azure/MachineLearningNotebooks/tree/master/contrib/fairness)了解 Azure 机器学习中的更多公平性评估场景。
 
@@ -186,7 +186,7 @@
 
 想想现实生活中的场景，在模型构建和使用中明显存在不公平。我们还应该考虑什么？
 
-## [课后测验](https://white-water-09ec41f0f.azurestaticapps.net/quiz/6/)
+## [课后测验](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/6/)
 ## 复习与自学
  
 在本课中，你学习了机器学习中公平和不公平概念的一些基础知识。
@@ -207,7 +207,7 @@
 
 了解 Azure 机器学习的工具以确保公平性
 
-- [Azure 机器学习](https://docs.microsoft.com/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-15963-cxa) 
+- [Azure 机器学习](https://docs.microsoft.com/azure/machine-learning/concept-fairness-ml?WT.mc_id=academic-77952-leestott) 
 
 ## 任务
 

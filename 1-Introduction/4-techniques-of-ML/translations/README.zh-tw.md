@@ -6,7 +6,7 @@
 - 在高層次上理解支持機器學習的過程。 
 - 探索基本概念，例如「模型」、「預測」和「訓練數據」。 
   
-## [課前測驗](https://white-water-09ec41f0f.azurestaticapps.net/quiz/7/)
+## [課前測驗](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/7/)
 ## 介紹
 
 在較高的層次上，創建機器學習（ML）過程的工藝包括許多步驟：
@@ -86,7 +86,7 @@
 > 作者 [Jen Looper](https://twitter.com/jenlooper)
 ## 參數調優 
 
-初始訓練完成後，觀察模型的質量並考慮通過調整其「超參數」來改進它。[在此文檔中](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-15963-cxa)閱讀有關該過程的更多信息。
+初始訓練完成後，觀察模型的質量並考慮通過調整其「超參數」來改進它。[在此文檔中](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-77952-leestott)閱讀有關該過程的更多信息。
 
 ## 預測
 
@@ -100,7 +100,7 @@
 
 畫一個流程圖，反映ML的步驟。在這個過程中，你認為自己現在在哪裏？你預測你在哪裏會遇到困難？什麽對你來說很容易？ 
 
-## [閱讀後測驗](https://white-water-09ec41f0f.azurestaticapps.net/quiz/8/)
+## [閱讀後測驗](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8/)
 
 ## 復習與自學 
 

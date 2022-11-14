@@ -2,7 +2,7 @@
 
 This lesson covers a brief history and important concepts of *natural language processing*, a subfield of *computational linguistics*.
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/31/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/31/)
 
 ## Introduction
 
@@ -51,7 +51,7 @@ In this section, you will need, and use:
    python -m textblob.download_corpora
    ```
 
-> 💡 Tip: You can run Python directly in VS Code environments. Check the [docs](https://code.visualstudio.com/docs/languages/python?WT.mc_id=academic-15963-cxa) for more information.
+> 💡 Tip: You can run Python directly in VS Code environments. Check the [docs](https://code.visualstudio.com/docs/languages/python?WT.mc_id=academic-77952-leestott) for more information.
 
 ## Talking to machines
 
@@ -149,7 +149,7 @@ Choose one of the "stop and consider" elements above and either try to implement
 
 In the next lesson, you'll learn about a number of other approaches to parsing natural language and machine learning.
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/32/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/32/)
 
 ## Review & Self Study
 
